@@ -9,9 +9,6 @@
   VIDEO EN YOUTUBE
 </a>
   
- 
- 
-  
 </center>
 
 <br /><br /><br /><br />
