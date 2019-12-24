@@ -6,7 +6,7 @@
  
 
 <a href="https://www.youtube.com/" target="_blank">
-  TUTORIAL EN YOUTUBE
+  VIDEO EN YOUTUBE
 </a>
   
  
