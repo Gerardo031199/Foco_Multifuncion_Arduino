@@ -11,6 +11,6 @@
   
 </center>
 
-<br /><br /><br /><br />
+<br /><br />
 @autor: Gerardo Contreras
 
